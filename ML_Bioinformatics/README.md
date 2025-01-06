@@ -1,4 +1,4 @@
-# Welcome to my repo called Clinical_ML_sandbox!
+# Welcome to my ML_Bioinformatics work!
 ## Join me as I explore how to use clinical data in the bioinformatics realm and train myself in Python and its applications to bioinformatics
 Feel free to use my notes as a tool for you to learn too.
 
